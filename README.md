@@ -5,6 +5,24 @@ The stepper stays **fixed on desktop** and hides automatically on mobile devices
 
 ---
 
+# Gems School Homepage UI
+
+A modern, responsive, and interactive one-page school website built with React and TailwindCSS. This project showcases a clean and engaging UI for educational institutions, featuring smooth scrolling navigation and a fixed stepper for easy access to various sections.
+
+## Live Demo
+
+Experience the live version of the project here:  
+🔗 [https://gems-school-homepage-ui-vtnu.vercel.app/](https://gems-school-homepage-ui-vtnu.vercel.app/)
+
+## Features
+
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Fixed Stepper Navigation**: Easy access to different sections of the page.
+- **Smooth Scrolling**: Seamless transitions between sections.
+- **TailwindCSS Styling**: Utilizes utility-first CSS for rapid UI development.
+- **React Components**: Modular and reusable components for scalability.
+
+
 ## ✨ Features
 
 - 🎯 **Single-page smooth navigation** (no separate routing)
