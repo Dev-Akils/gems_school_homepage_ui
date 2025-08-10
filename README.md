@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# 📜 Single Page Stepper Navigation (React + TailwindCSS)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple **fixed stepper navigation** built with **React** and **TailwindCSS** for single-page scrolling navigation.  
+The stepper stays **fixed on desktop** and hides automatically on mobile devices.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## ✨ Features
 
-### `npm start`
+- 🎯 **Single-page smooth navigation** (no separate routing)
+- 📌 **Fixed position** on desktop
+- 📱 **Hidden on mobile**
+- ⚡ Built with **React** + **TailwindCSS**
+- 🎨 Hover tooltips for step names
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📂 Project Structure
 
-### `npm test`
+<img width="1258" height="576" alt="image" src="https://github.com/user-attachments/assets/ddc1ab67-0c2b-4743-8bb1-85af242efd70" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠 Installation & Setup
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 2️⃣ Navigate into the project folder
+cd your-repo-name
 
-### `npm run eject`
+# 3️⃣ Install dependencies
+npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# 4️⃣ Start the development server
+npm start
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+📸 Screenshot
+<img width="1866" height="872" alt="image" src="https://github.com/user-attachments/assets/dd6c7be6-0d4c-40a9-a586-ccefff003e34" />
+<img width="1894" height="787" alt="image" src="https://github.com/user-attachments/assets/5a3675e5-8b18-4b9d-8411-9126cde74701" />
+<img width="1882" height="766" alt="image" src="https://github.com/user-attachments/assets/24549308-f55a-49b0-a891-e0410be148ed" />
+<img width="1881" height="809" alt="image" src="https://github.com/user-attachments/assets/214268ec-e728-443e-911a-ac6d87d20a0d" />
+<img width="1868" height="844" alt="image" src="https://github.com/user-attachments/assets/7cc58f64-ba08-415e-9fb7-46aa3da00878" />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🧑‍💻 Technologies Used
+React – UI Library
 
-## Learn More
+TailwindCSS – Styling
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+React Router (optional) – Only if needed for multi-page navigation
